@@ -76,7 +76,7 @@ const App: React.FC = () => {
         <Row>
           <Col xs={12} md={6} className="padding-bottom">
             <Form.Control
-              id="text_action"
+              id="action_select"
               aria-label="The action to perform"
               as="select"
               value={actionValue}
@@ -92,7 +92,12 @@ const App: React.FC = () => {
             </Form.Control>
           </Col>
           <Col xs={12} md={6} className="padding-bottom">
-            <Button variant="primary" block onClick={handleConvertClick}>
+            <Button
+              id="convert_button"
+              variant="primary"
+              block
+              onClick={handleConvertClick}
+            >
               Convert text
             </Button>
           </Col>
