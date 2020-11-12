@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/text-caser/static/css/main.4db01cf4.chunk.css",
-    "main.js": "/text-caser/static/js/main.02c71bc2.chunk.js",
-    "main.js.map": "/text-caser/static/js/main.02c71bc2.chunk.js.map",
+    "main.js": "/text-caser/static/js/main.cd987e8e.chunk.js",
+    "main.js.map": "/text-caser/static/js/main.cd987e8e.chunk.js.map",
     "runtime-main.js": "/text-caser/static/js/runtime-main.b1a80a06.js",
     "runtime-main.js.map": "/text-caser/static/js/runtime-main.b1a80a06.js.map",
     "static/css/2.95f25948.chunk.css": "/text-caser/static/css/2.95f25948.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.95f25948.chunk.css",
     "static/js/2.a43dffdd.chunk.js",
     "static/css/main.4db01cf4.chunk.css",
-    "static/js/main.02c71bc2.chunk.js"
+    "static/js/main.cd987e8e.chunk.js"
   ]
 }
